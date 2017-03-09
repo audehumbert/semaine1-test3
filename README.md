@@ -2,7 +2,7 @@
 description plus poussée
 
 
-**#Présentation Aude Humbert**  
+#**Présentation Aude Humbert**  
 
 * Je m'appelle **Aude Humbert**
 * J'ai 37 ans
@@ -18,4 +18,4 @@ description plus poussée
 ## Pourquoi [Simplon](www.simplon.co) ?   
 
 Je suis à la recherche de nouvelles compétences pour trouver un job.   
-Je ne connassais pas Simplon avant d'en entendre parler avec [Egée](http://www.egee.asso.fr/spip.php?article1825) pour débuter ![les Codeurs du Web 18.](C:\Users\Aude\Documents\GitHub\semaine1-test3)     
+Je ne connassais pas Simplon avant d'en entendre parler avec [Egée](http://www.egee.asso.fr/spip.php?article1825) pour débuter ![les Codeurs du Web 18.](C:\Users\Aude\Pictures\egee)     
