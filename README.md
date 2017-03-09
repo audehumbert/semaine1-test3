@@ -18,4 +18,4 @@ description plus poussée
 ## Pourquoi [Simplon](http://simplon.co/) ?   
 
 Je suis à la recherche de nouvelles compétences pour trouver un job.   
-Je ne connassais pas Simplon avant d'en entendre parler avec [Egée](http://www.egee.asso.fr/spip.php?article1825) pour débuter ![les Codeurs du Web 18.](http://www.egee.asso.fr/spip.php?article1825)     
+Je ne connassais pas Simplon avant d'en entendre parler avec [Egée](http://www.egee.asso.fr/spip.php?article1825) pour débuter ![les Codeurs du Web 18.](http://www.egee.asso.fr/IMG/jpg/c090639.jpg)     
