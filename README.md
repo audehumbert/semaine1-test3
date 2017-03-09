@@ -2,7 +2,7 @@
 
 ----------------
 
-#**Présentation Aude Humbert**  
+#**Présentation Aude Humbert**#  
 
 * Je m'appelle **Aude Humbert**
 * J'ai 37 ans
@@ -12,13 +12,13 @@
 
 --
 
-##Formation  
+##Formation##  
 1. Commerciale
 2. Marketing  
 
 --
 
-## Pourquoi [Simplon](http://simplon.co/) ?   
+## Pourquoi [Simplon](http://simplon.co/) ? ##   
 Je suis à la recherche de nouvelles compétences pour trouver un job.   
 Je ne connaissais pas Simplon avant d'en entendre parler avec [Egée](http://www.egee.asso.fr/spip.php?article1825) pour débuter Les Codeurs du Web 18.   
 
