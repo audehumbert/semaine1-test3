@@ -1,4 +1,4 @@
-##**Aude Humbert**
+#Aude Humbert
 
 ----------------
 
@@ -22,6 +22,6 @@
 Je suis à la recherche de nouvelles compétences pour trouver un job.   
 Je ne connaissais pas Simplon avant d'en entendre parler avec [Egée](http://www.egee.asso.fr/spip.php?article1825) pour débuter Les Codeurs du Web 18.   
 
-![les Codeurs du Web 18.](http://www.egee.asso.fr/IMG/jpg/c090639.jpg)
+![les Codeurs du Web 18.](http://www.egee.asso.fr/IMG/jpg/c090639.jpg "Les Codeurs du Web 18")
 
 ------------------------------
