@@ -24,4 +24,6 @@ Je ne connaissais pas Simplon avant d'en entendre parler avec [Egée](http://www
 
 ![les Codeurs du Web 18.](http://www.egee.asso.fr/IMG/jpg/c090639.jpg "Les Codeurs du Web 18")
 
+![Les Codeurs du Web 18 2](C:\Users\Aude\Documents\GitHub\semaine1-test3 "Les Codeurs du Web 2e photo")
+
 ------------------------------
